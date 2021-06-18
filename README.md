@@ -10,7 +10,7 @@ I have a passion for solving problems with computers. I enjoy the process of goi
 <a href='https://twitter.com/jamtantech'>
     <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg">
 </a>
-<a href='https://www.instagram.com/jamtan.code/?hl=en'>
+<a href='https://www.instagram.com/alieu.dev/?hl=en'>
     <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">
 </a>
 
@@ -31,7 +31,7 @@ I have a passion for solving problems with computers. I enjoy the process of goi
 
 - Open to Software Developer/Software Engineer roles anywhere in the United States!
 - Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/alieubaldeh/)
-- 🌱 I’m currently building **React and Django projects**
+- 🌱 I’m currently building projects at the Flatiron School
 
 ![Alieu's github stats](https://github-readme-stats.vercel.app/api?username=alieubaldeh1&hide=stars,issues&show_icons=true)
 
